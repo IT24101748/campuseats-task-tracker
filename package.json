@@ -1,0 +1,10 @@
+{
+  "name": "campuseats-task-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SE3090 Lab 08 CampusEats Task Tracker",
+  "scripts": {
+    "start": "node src/tasks.js",
+    "test": "node --test"
+  }
+}
